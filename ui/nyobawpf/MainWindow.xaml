@@ -1,0 +1,19 @@
+﻿<Window x:Class="nyobawpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:nyobawpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Height="64.702" Margin="304.536,55.45,0,0" TextWrapping="Wrap" Text="Register" VerticalAlignment="Top" Width="177.258" Foreground="#FFFD0C0C" FontSize="48"/>
+        <Label Content="Username" HorizontalAlignment="Left" Height="25.827" Margin="294.013,172.669,0,0" VerticalAlignment="Top" Width="65.562"/>
+        <Label Content="Password" HorizontalAlignment="Left" Height="25.828" Margin="294.013,218.364,0,0" VerticalAlignment="Top" Width="62.584"/>
+        <TextBox HorizontalAlignment="Left" Height="25.827" Margin="364.575,172.669,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="117.219"/>
+        <TextBox HorizontalAlignment="Left" Height="25.828" Margin="364.575,218.364,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="117.219"/>
+        <Button Content="Login" HorizontalAlignment="Left" Height="31.788" Margin="304.972,272.007,0,0" VerticalAlignment="Top" Width="80.464" Background="#FF32D32A" Foreground="#FFFFF3F3"/>
+        <Button Content="Reset" HorizontalAlignment="Left" Height="31.788" Margin="401.33,272.007,0,0" VerticalAlignment="Top" Width="80.464" Background="#FFE82B2B" Foreground="#FFF3F3F3"/>
+
+    </Grid>
+</Window>
