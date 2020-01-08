@@ -1,0 +1,11 @@
+D:\Project\sinauCSharp\dasar\WorkingWithString\bin\Debug\netcoreapp3.1\WorkingWithString.exe
+D:\Project\sinauCSharp\dasar\WorkingWithString\bin\Debug\netcoreapp3.1\WorkingWithString.deps.json
+D:\Project\sinauCSharp\dasar\WorkingWithString\bin\Debug\netcoreapp3.1\WorkingWithString.runtimeconfig.json
+D:\Project\sinauCSharp\dasar\WorkingWithString\bin\Debug\netcoreapp3.1\WorkingWithString.runtimeconfig.dev.json
+D:\Project\sinauCSharp\dasar\WorkingWithString\bin\Debug\netcoreapp3.1\WorkingWithString.dll
+D:\Project\sinauCSharp\dasar\WorkingWithString\bin\Debug\netcoreapp3.1\WorkingWithString.pdb
+D:\Project\sinauCSharp\dasar\WorkingWithString\obj\Debug\netcoreapp3.1\WorkingWithString.csprojAssemblyReference.cache
+D:\Project\sinauCSharp\dasar\WorkingWithString\obj\Debug\netcoreapp3.1\WorkingWithString.AssemblyInfoInputs.cache
+D:\Project\sinauCSharp\dasar\WorkingWithString\obj\Debug\netcoreapp3.1\WorkingWithString.AssemblyInfo.cs
+D:\Project\sinauCSharp\dasar\WorkingWithString\obj\Debug\netcoreapp3.1\WorkingWithString.dll
+D:\Project\sinauCSharp\dasar\WorkingWithString\obj\Debug\netcoreapp3.1\WorkingWithString.pdb
