@@ -1,0 +1,10 @@
+D:\Project\sinauCSharp\variables\variabel\bin\Debug\netcoreapp3.1\variabel.exe
+D:\Project\sinauCSharp\variables\variabel\bin\Debug\netcoreapp3.1\variabel.deps.json
+D:\Project\sinauCSharp\variables\variabel\bin\Debug\netcoreapp3.1\variabel.runtimeconfig.json
+D:\Project\sinauCSharp\variables\variabel\bin\Debug\netcoreapp3.1\variabel.runtimeconfig.dev.json
+D:\Project\sinauCSharp\variables\variabel\bin\Debug\netcoreapp3.1\variabel.dll
+D:\Project\sinauCSharp\variables\variabel\bin\Debug\netcoreapp3.1\variabel.pdb
+D:\Project\sinauCSharp\variables\variabel\obj\Debug\netcoreapp3.1\variabel.AssemblyInfoInputs.cache
+D:\Project\sinauCSharp\variables\variabel\obj\Debug\netcoreapp3.1\variabel.AssemblyInfo.cs
+D:\Project\sinauCSharp\variables\variabel\obj\Debug\netcoreapp3.1\variabel.dll
+D:\Project\sinauCSharp\variables\variabel\obj\Debug\netcoreapp3.1\variabel.pdb
