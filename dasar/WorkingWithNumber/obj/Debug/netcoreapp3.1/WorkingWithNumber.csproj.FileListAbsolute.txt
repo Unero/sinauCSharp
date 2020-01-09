@@ -1,0 +1,11 @@
+D:\Project\sinauCSharp\dasar\WorkingWithNumber\bin\Debug\netcoreapp3.1\WorkingWithNumber.exe
+D:\Project\sinauCSharp\dasar\WorkingWithNumber\bin\Debug\netcoreapp3.1\WorkingWithNumber.deps.json
+D:\Project\sinauCSharp\dasar\WorkingWithNumber\bin\Debug\netcoreapp3.1\WorkingWithNumber.runtimeconfig.json
+D:\Project\sinauCSharp\dasar\WorkingWithNumber\bin\Debug\netcoreapp3.1\WorkingWithNumber.runtimeconfig.dev.json
+D:\Project\sinauCSharp\dasar\WorkingWithNumber\bin\Debug\netcoreapp3.1\WorkingWithNumber.dll
+D:\Project\sinauCSharp\dasar\WorkingWithNumber\bin\Debug\netcoreapp3.1\WorkingWithNumber.pdb
+D:\Project\sinauCSharp\dasar\WorkingWithNumber\obj\Debug\netcoreapp3.1\WorkingWithNumber.csprojAssemblyReference.cache
+D:\Project\sinauCSharp\dasar\WorkingWithNumber\obj\Debug\netcoreapp3.1\WorkingWithNumber.AssemblyInfoInputs.cache
+D:\Project\sinauCSharp\dasar\WorkingWithNumber\obj\Debug\netcoreapp3.1\WorkingWithNumber.AssemblyInfo.cs
+D:\Project\sinauCSharp\dasar\WorkingWithNumber\obj\Debug\netcoreapp3.1\WorkingWithNumber.dll
+D:\Project\sinauCSharp\dasar\WorkingWithNumber\obj\Debug\netcoreapp3.1\WorkingWithNumber.pdb
